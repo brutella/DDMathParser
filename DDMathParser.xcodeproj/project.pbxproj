@@ -542,7 +542,7 @@
 				SDKROOT = macosx;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator watchsimulator watchos macosx appletvsimulator appletvos";
 				SWIFT_VERSION = 3.0;
-				VALID_ARCHS = "i386 x86_64 armv6 armv7 armv7s arm64";
+				VALID_ARCHS = "i386 x86_64 armv6 armv7 armv7s arm64 armv7k";
 				VERSIONING_SYSTEM = "apple-generic";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
@@ -589,7 +589,7 @@
 				SDKROOT = macosx;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator watchsimulator watchos macosx appletvsimulator appletvos";
 				SWIFT_VERSION = 3.0;
-				VALID_ARCHS = "i386 x86_64 armv6 armv7 armv7s arm64";
+				VALID_ARCHS = "i386 x86_64 armv6 armv7 armv7s arm64 armv7k";
 				VERSIONING_SYSTEM = "apple-generic";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
